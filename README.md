@@ -92,18 +92,6 @@ Complete ETL system processing **2,500,000+ government contracts** from XML feed
 └── Export Layer     → Analysis-ready datasets
 ```
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=gogava&show_icons=true&theme=vue&hide_border=true&bg_color=1a1a1a&title_color=3498db&icon_color=3498db&text_color=ecf0f1&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gogava&layout=compact&theme=vue&hide_border=true&bg_color=1a1a1a&title_color=3498db&text_color=ecf0f1&cache_seconds=1800)
-
-
-</div>
 
 ---
 
