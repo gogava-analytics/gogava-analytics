@@ -70,7 +70,7 @@ class DataAnalyst:
 
 ## Featured Project
 
-### 🏛️ [Spanish Public Procurement ETL Pipeline](https://github.com/[TU_USUARIO]/contratos-menores-espana)
+### 🏛️ [Spanish Public Procurement ETL Pipeline](https://github.com/gogava-analytics/contratos-menores-espana)
 
 Complete ETL system processing **2,500,000+ government contracts** from XML feeds to normalized MySQL database.
 
